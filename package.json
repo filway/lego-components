@@ -45,6 +45,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0-0",
     "husky": "^4.3.8",
+    "prettier": "1.19.1",
     "rimraf": "^2.7.1",
     "rollup-plugin-css-only": "^3.1.0",
     "rollup-plugin-typescript2": "^0.30.0",
